@@ -797,8 +797,8 @@
         "noEventsFound": "Keine Termine gefunden"
     },
     "romm": {
-        "platforms": "Platforms",
-        "totalRoms": "Total ROMs"
+        "platforms": "Plattformen",
+        "totalRoms": "ROMs gesamt"
     },
     "netdata": {
         "warnings": "Warnungen",
